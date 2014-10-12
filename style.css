@@ -1,4 +1,15 @@
 /*header*/
 header{
-	background-color: 2a69f5;
+	background-color:2a69f5;
+	margin-top:0px;
+	padding: 0px;
+}
+/*navigation*/
+nav{
+	background-color: 0a0a0a;
+	color:white;
+	margin-top:auto;
+	
+
+
 }
