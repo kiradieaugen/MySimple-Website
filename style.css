@@ -8,17 +8,30 @@ header{
 	background-color: 0a0a0a;
 	margin: 0px;
 	padding:0px; 
+
 }
 body{
 	margin: 0px;
-	padding: 0px;	
+	padding: 0px;
+		
 }
 /*navigation*/
 nav{
 	background-color: 0a0a0a;
 	color:white;
-	margin-top:auto;
-
-
-
+	margin-top:0px;
+}
+nav ol li{
+	display: inline-block;
+	margin-right: 20px;
+	text-align: center;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+nav ol{
+	margin-left: 300px;
+	height: 60px;
+}
+#logo{
+		margin-left: 500px;	
 }
