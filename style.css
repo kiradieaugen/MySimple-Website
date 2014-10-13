@@ -41,9 +41,10 @@ section{
 	background-color: #eef7af;
 	height:80%;
 	width: 70%;
-	margin-left:310px;
+	margin-left:260px;
 	border-radius: 5%;
 	padding: 10px;
+	box-shadow: 10px 10px 5px #888888;
 
 }
 
