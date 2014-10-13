@@ -20,6 +20,14 @@ nav a{
 	margin-right: 20px;
 
 }
+nav a:hover{
+	background-color: #09b4fb;
+
+}
+nav a:active{
+	background-color: #107f08;
+
+}
 nav{
 	background-color: #030303;
 	height: 50px;
