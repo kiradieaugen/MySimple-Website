@@ -2,28 +2,45 @@
 header{
 	background-color:#2a69f5;
 	margin:0px;
-	padding: 0px;
+	width: 100%;
+	text-align: center;
+	padding: 20px 20px 0px 20px;
 }
 
 body{
 	margin: 0px;
 	padding: 0px;
+	
 		
 }
 /*navigation*/
-a{
+nav a{
 	text-decoration: none;
 	color: white;
+	margin-right: 20px;
 }
+nav{
+	background-color: #030303;
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	padding: 20px 20px 0px 20px;
+
+}
+
 section{
 	background-color: #da0f1e;
-	height:50%;
+	height:63%;
 	width: 50%;
+	margin-left:360px;
+	border-radius: 5%;
+	padding: 10px;
 
 }
 
 #logo{
-		margin-left: 500px;	
+		position: relative;
+			
 }
 /**footer*/
 footer{
@@ -31,11 +48,10 @@ footer{
 	height:40px;
 	width:100%;
 	text-align: center;
-	margin-top: 500px;
-	position:absolute;
+	padding: 20px 20px 0px 20px;
 }
 #logo-foot{
 	height:30px;
 	width: 80px
-
+	position:fixed;
 }
