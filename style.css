@@ -14,6 +14,11 @@ body{
 		
 }
 /*navigation*/
+
+#link1{
+	background-color: #e3103d;
+
+}
 nav a{
 	text-decoration: none;
 	color: white;
