@@ -13,9 +13,19 @@ body{
 	background-color: #e8eaef;	
 		
 }
+.btn{
+	margin-left: 105px;
+	
+
+}
+#conta{
+	height: 70px;
+	width: 70px;
+	margin-left: 0px;
+}
 /*navigation*/
 
-#link1,#link2{
+#link1,#link2,#link3,#link4{
 	background-color: #e3103d;
 
 }
